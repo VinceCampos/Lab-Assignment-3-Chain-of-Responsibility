@@ -15,5 +15,6 @@ Validation: Ensure that waste containers are correctly identified and disposed o
 Your solution should include in your GitHub account:
 
 Problem Statement  
+Solution Codes  
 UML Diagram  
-Solution Codes
+![Lab Assignment 3 _ Chain of Responsibility](https://github.com/user-attachments/assets/fcfc95ae-e179-4d64-9f69-b1a214f276fd)
